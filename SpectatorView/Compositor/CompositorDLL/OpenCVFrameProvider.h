@@ -13,7 +13,7 @@
 
 //TODO: Change this value to match the camera id you are using.
 // If your PC has an integrated webcam, that will probably be id 0.
-#define CAMERA_ID 0
+#define CAMERA_ID 2
 
 class OpenCVFrameProvider : public IFrameProvider
 {
